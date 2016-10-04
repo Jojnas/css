@@ -28,7 +28,7 @@ header {
 }
 
 #timeline {
-    background: url(../img/line.png) repeat-y 30px 0;
+    background: url(../img/line.png) repeat-y 50% 0;
     min-height: 700px;
     margin: 20px 0 20px 0;
 }
